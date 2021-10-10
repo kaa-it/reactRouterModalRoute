@@ -1,2 +1,0 @@
-# reactRouterModalRoute
-Created with CodeSandbox
